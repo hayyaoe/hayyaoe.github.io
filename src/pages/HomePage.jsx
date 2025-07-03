@@ -3,7 +3,7 @@ import portfolio1 from "../assets/portfolio1.png"
 
 function HomePage () {
    useEffect(() => {
-    document.title = "PORTFOLIO";
+    document.title = "PORTFOLIO UO";
   }, []);
 
   return (

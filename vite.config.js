@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: "/hayyaoe.github.io/",
+  base: "/",
   build: {
     rollupOptions: {
       input: 'index.html'
