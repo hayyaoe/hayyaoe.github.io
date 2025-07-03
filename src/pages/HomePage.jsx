@@ -1,9 +1,11 @@
+import { useEffect } from "react";
+
 import profile from "../assets/profile.png"
 import portfolio1 from "../assets/portfolio1.png"
 
 function HomePage () {
    useEffect(() => {
-    document.title = "PORTFOLIO UO";
+    document.title = "HAYYAOE";
   }, []);
 
   return (
