@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+  --color-english-violet: #594472ff;
+  --color-space-cadet: #27274Dff;
+  --color-rich-black: #060914ff;
+  --color-yinmn-blue: #394C74ff;
+  --color-dark-purple: #181031ff;
+}
