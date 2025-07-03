@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --color-english-violet: #594472ff;
-  --color-space-cadet: #27274Dff;
-  --color-rich-black: #060914ff;
-  --color-yinmn-blue: #394C74ff;
-  --color-dark-purple: #181031ff;
+  --color-background: #212A32ff;
+  --color-primary: #D8DCE8ff;
+  --color-secondary: #848DA5ff;
+  --color-secondary-dark: #525869ff;
+  --color-background-light: #8C95AEff;
+
+  --font-ibm: "IBM Plex Mono";
+  --font-bar: "Libre Barcode 39";
+
+  --text-4.5xl: 2.5rem;
 }
