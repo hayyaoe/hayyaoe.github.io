@@ -11,7 +11,7 @@ export default defineConfig({
   base: "/hayyaoe.github.io/",
   build: {
     rollupOptions: {
-      input: '/index.html'
+      input: 'index.html'
     }
   }
 })
